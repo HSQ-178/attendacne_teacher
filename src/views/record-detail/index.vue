@@ -97,7 +97,7 @@ const radioButtonData = [
           strong: true,
           secondary: true,
           type: "error",
-          size: "tiny",
+          size: "large",
         },
         {
           default: () =>
